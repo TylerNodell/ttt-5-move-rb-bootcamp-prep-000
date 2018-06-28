@@ -10,7 +10,7 @@ end
 def input_to_index(input)
   puts input.to_i - 1
   index = input.to_i - 1
-
+  puts index
 end
 
 def move(array, index, value)
